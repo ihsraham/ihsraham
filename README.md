@@ -38,10 +38,10 @@ Developer relations and technical documentation. Interested in graph databases, 
 | [ai-yield-guard](https://github.com/ihsraham/ai-yield-guard) | Autonomous DeFi agent for self-custodial yield management with ERC-8004 identity. |
 | [cosign-demo](https://github.com/ihsraham/cosign-demo) | Multi-party approval checkout using state channels. Shared wallets with quorum-based signing. |
 
-## Stats
-
-![GitHub Stats](github-stats.png)
-
 ## Activity
 
 ![GitHub Metrics](https://raw.githubusercontent.com/ihsraham/ihsraham/main/github-metrics.svg)
+
+## Stats
+
+![GitHub Stats](github-stats.png)
