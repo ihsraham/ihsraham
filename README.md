@@ -41,3 +41,7 @@ Developer relations and technical documentation. Interested in graph databases, 
 ## Stats
 
 ![GitHub Stats](github-stats.png)
+
+## Activity
+
+![GitHub Metrics](https://raw.githubusercontent.com/ihsraham/ihsraham/main/github-metrics.svg)
