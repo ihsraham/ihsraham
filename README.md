@@ -1,14 +1,14 @@
 # Maharshi Mishra
 
-SDK engineer and security researcher. Building state channel infrastructure at Yellow Network. Previously Developer Relations at MetaMask (Consensys), Singapore.
+Developer relations and technical documentation. Interested in graph databases, cybersecurity, and making complex tools accessible to developers. Ex MetaMask (Consensys).
 
-## What I work on
+## Interests
 
-**ERC-7824 Nitrolite Protocol** -- State channel SDK for off-chain settlement on EVM chains. Go, TypeScript, Solidity.
+**Graph databases and security** -- Attack path analysis using Neo4j, Cypher, and BloodHound CE. Running a multi-machine Active Directory lab.
 
-**Cybersecurity research** -- Active Directory attack path analysis using Neo4j, Cypher, and BloodHound CE. Running a multi-machine lab environment.
+**Technical writing** -- Turning complex systems into clear developer documentation, protocol specs, and integration guides.
 
-**Developer documentation** -- Protocol specifications and SDK integration guides for developer-facing products.
+**Open source tooling** -- Building demos and reference implementations that help developers get started faster.
 
 ## Stack
 
@@ -35,14 +35,15 @@ SDK engineer and security researcher. Building state channel infrastructure at Y
 | Project | What it does |
 |---------|-------------|
 | [neo4j-attack-path-analysis](https://github.com/ihsraham/neo4j-attack-path-analysis) | Attack path analysis using Neo4j and Cypher. Builds an AD graph and runs `shortestPath()` queries to trace privilege escalation chains. Includes BloodHound CE screenshots from a live lab. |
-| [ai-yield-guard](https://github.com/ihsraham/ai-yield-guard) | Autonomous DeFi agent for self-custodial yield management. Built on WDK with ERC-8004 identity. |
-| [cosign-demo](https://github.com/ihsraham/cosign-demo) | Multi-party approval checkout on Nitrolite state channels. Shared wallets with quorum-based signing. |
-| [yellow-sdk-demo](https://github.com/ihsraham/yellow-sdk-demo) | Integration demo for the Yellow Network SDK. State channel operations and off-chain settlement. |
+| [ai-yield-guard](https://github.com/ihsraham/ai-yield-guard) | Autonomous DeFi agent for self-custodial yield management with ERC-8004 identity. |
+| [cosign-demo](https://github.com/ihsraham/cosign-demo) | Multi-party approval checkout using state channels. Shared wallets with quorum-based signing. |
 
 ## Metrics
 
 ![GitHub Metrics](https://raw.githubusercontent.com/ihsraham/ihsraham/main/github-metrics.svg)
 
----
-
-[LinkedIn](https://linkedin.com/in/ihsraham27)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ihsraham/ihsraham/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihsraham/ihsraham/output/github-snake.svg" />
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/ihsraham/ihsraham/output/github-snake.svg" width="100%" />
+</picture>
