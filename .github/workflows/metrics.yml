@@ -20,8 +20,8 @@ jobs:
           template: classic
           config_timezone: Asia/Kolkata
 
-          base: header, activity, repositories
-          base_indepth: yes
+          base: header
+          base_indepth: no
 
           # Languages (owner-only repos, no org repos)
           plugin_languages: yes
